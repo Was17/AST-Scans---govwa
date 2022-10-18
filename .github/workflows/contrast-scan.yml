@@ -1,3 +1,5 @@
+name: SCA GO
+
 on:
   push:
     branches:
