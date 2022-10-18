@@ -1,5 +1,5 @@
-name:Snyk Go
-on: [pull_request]
+name: Snyk Go
+on: push
 jobs:
   security:
     runs-on: ubuntu-latest
