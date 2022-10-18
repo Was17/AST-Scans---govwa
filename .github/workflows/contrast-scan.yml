@@ -1,7 +1,7 @@
 name: SCA GO
 
 on:
-  push:
+  pull_request:
     branches:
       - "main"
 jobs:
